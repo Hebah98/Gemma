@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900273752913",
+    "project_id": "gemma-92779",
+    "storage_bucket": "gemma-92779.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900273752913:android:c85f8d67ecb995694e2170",
+        "android_client_info": {
+          "package_name": "com.example.gemma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900273752913-jnf8jl0c4hpr1k8tiu5ikrl2stk3hush.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQupfjtGQkKcAajnYNXceoNmR6fGjRHj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900273752913-jnf8jl0c4hpr1k8tiu5ikrl2stk3hush.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
